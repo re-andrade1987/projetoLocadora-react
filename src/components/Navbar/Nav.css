@@ -1,0 +1,17 @@
+.Nav{
+    background-color: #cc0000;
+    height: 100px;
+    padding-top: 2px ;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    margin-top: 40px;
+}
+ul a{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
